@@ -7,22 +7,16 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>helloSpring</artifactId>
+    <artifactId>helloMybatis</artifactId>
     <packaging>jar</packaging>
 
-    <name>helloSpring</name>
+    <name>helloMybatis</name>
     <url>http://maven.apache.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring-version>6.1.10</spring-version>
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-context</artifactId>
-            <version>${spring-version}</version>
-        </dependency>
     </dependencies>
 </project>

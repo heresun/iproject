@@ -18,6 +18,9 @@
     <modules>
         <module>algorithm</module>
         <module>helloSpring</module>
+        <module>helloBoot</module>
+        <module>helloMybatis</module>
+        <module>helloJava</module>
     </modules>
     <scm>
         <connection/>
