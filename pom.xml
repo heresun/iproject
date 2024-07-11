@@ -21,6 +21,7 @@
         <module>helloBoot</module>
         <module>helloMybatis</module>
         <module>helloJava</module>
+        <module>helloAuth</module>
     </modules>
     <scm>
         <connection/>
